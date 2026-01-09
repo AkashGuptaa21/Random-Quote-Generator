@@ -1,2 +1,2 @@
 # Random-Quote-Generator
-HTML , JS based Random Quote Generator ( Just for Leaning purpose )
+HTML , JS based Random Quote Generator 
